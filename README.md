@@ -1,3 +1,4 @@
+Projeto de criptomoeda em desenvolvimento, focado em crescimento sustentável, transparência e construção de comunidade no longo prazo.
 # Dollynewyork (Dollyork)
 
 🚀 Dollynewyork é um projeto de criptomoeda em fase inicial, focado em crescimento sustentável, transparência e construção de comunidade no longo prazo.
