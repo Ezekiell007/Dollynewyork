@@ -1,55 +1,35 @@
-Projeto de criptomoeda em desenvolvimento, focado em crescimento sustentável, transparência e construção de comunidade no longo prazo.
-# Dollynewyork (Dollyork)
+# Dollynewyork (DNY)
 
-🚀 Dollynewyork é um projeto de criptomoeda em fase inicial, focado em crescimento sustentável, transparência e construção de comunidade no longo prazo.
+🚀 **Dollynewyork** is a crypto project in development, created with a **long-term investment vision**, focused on transparency, consistency, and community growth.
 
-🕒 Projeto iniciado hoje, com desenvolvimento público e evolução contínua.
+## 🌍 Project Vision
 
----
+Dollynewyork aims to grow as an independent crypto project, built step by step with responsibility and a strong long-term perspective.
 
-## 📌 Visão do Projeto
+## 🔐 Core Principles
 
-Dollynewyork nasce com a ideia de unir marca, comunidade e investimento responsável.
-O projeto é construído passo a passo, com comunicação clara e foco no futuro.
+* Transparency
+* Open and honest development
+* Community-driven growth
+* Long-term vision
 
----
+## 🪙 Project Information
 
-## 🎯 Objetivos
+* Name: Dollynewyork
+* Symbol: DNY
+* Type: Crypto project
+* Focus: Long-term investment
+* Status: In development
 
-- Construir uma criptomoeda sólida e transparente  
-- Desenvolver uma comunidade ativa  
-- Evoluir o projeto com responsabilidade  
-- Criar valor real no longo prazo  
+## 🤝 Community
 
----
+Dollynewyork grows together with its community. Every supporter is part of the project’s journey from the beginning.
 
-## 🛠️ Status do Projeto
+## ⚠️ Disclaimer
 
-📍 Em desenvolvimento  
-Atualizações serão publicadas conforme o avanço do projeto.
-
----
-
-## 🌍 Comunidade
-
-A comunidade é parte essencial da Dollynewyork.
-Cada apoiador cresce junto com o projeto.
+This project is under development. Cryptocurrencies involve risks.
+This is not financial advice.
 
 ---
 
-## 🔐 Transparência
-
-- Desenvolvimento público  
-- Comunicação aberta  
-- Compromisso com um projeto justo  
-
----
-
-## ⚠️ Aviso
-
-Este projeto não é uma recomendação financeira.
-Invista com responsabilidade.
-
----
-
-Dollynewyork — const
+**Dollynewyork © 2026**
